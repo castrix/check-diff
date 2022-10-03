@@ -1,2 +1,5 @@
 data
 node_modules
+output/output
+output/output.json
+output/treeview.html
